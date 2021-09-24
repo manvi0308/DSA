@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Sort-A-Queue",
+        "Minimum-In-Sorted-Rotated",
+        "Merge-Sorted-Array",
+        "ContainDuplicates",
+        "Floyd-Warshall"
+    ]
+}
